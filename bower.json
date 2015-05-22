@@ -1,0 +1,16 @@
+{
+  "name": "Vorlon Web Components",
+  "description": "",
+  "version": "0.1.0",
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "src/main.js",
+    "src/main.css"
+  ],
+  "dependencies": {
+    "x-tag-core": "*",
+    "x-tag-notify": "*"
+  }
+}
